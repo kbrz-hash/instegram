@@ -1,2 +1,2 @@
-# instegram
+# instagram
 download instagram
